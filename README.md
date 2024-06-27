@@ -3,7 +3,7 @@ Analysis codes and documentations for "Single-cell transcriptomics unravels anta
 
 
 
-![](figure/GTEX.tif)
+![](figure/GTEX.svg)
 
 ## Codes used to identify Aging-dependent Senescence-associated Coregulated Modules(SACMs) in different tissues
 |Script name|Comment| 
